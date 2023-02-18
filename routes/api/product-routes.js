@@ -48,7 +48,7 @@ router.post('/', (req, res) => {
       tagIds: [1, 2, 3, 4]
     }
   */
-  const productData = await Product.update(
+  const productData = await Product.create(
     {
       product_name: req.body.product_name,
       price: req.body.price,
@@ -59,7 +59,7 @@ router.post('/', (req, res) => {
 } catch (err) {
   res.status(400).json(err);
 }
-
+// ---- I Dont know whats going on here ----
 Product.create(req.body)
   .then((product) => {
     // if there's product tags, we need to create pairings to bulk create in the ProductTag model
