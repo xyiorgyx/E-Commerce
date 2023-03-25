@@ -18,6 +18,8 @@ To begin open up the index.js file in the intergrated terminal and download the 
 ## Instructional Video
 Please click this [link](https://drive.google.com/file/d/1klIO9DJ_D6ZRPu2vPEzpM2-vbP3TgZJ1/view) to watch the full instructional video on how to use the api using Insomnia
 
+## git hub link
+https://github.com/xyiorgyx/E-Commerce
 
 ## Purpose
 The purpose of this repository is to allow users to store and retrieve information about their products for any online e-commerce website. Users can easily manage these products, tags, and categories for their own online e-commerce websites using Insomnia or a similar program. 
