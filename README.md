@@ -1,7 +1,7 @@
 # E-commerce Back End Starter Code
 
 ## Description
-The E-commerce backend server is a api data-base using sql to store and retrieve data using insomnia. The program allows users to add, change and delete: products, categories, tags, as well as product tags to their personal liking. The data base is completely customizable to the users needs and preferences. 
+The E-commerce backend server is a api data-base using sql to store and retrieve data using Insomnia. The program allows users to add, change and delete: products, categories, tags, as well as product tags to their personal liking. The data base is completely customizable to the users needs and preferences. 
 
 ## Table of Contents:
 
@@ -16,11 +16,11 @@ The E-commerce backend server is a api data-base using sql to store and retrieve
 To begin open up the index.js file in the intergrated terminal and download the dependencies using "npm i". Then run npm start to get the server running. 
 
 ## Instructional Video
-Please click this [link](https://drive.google.com/file/d/1klIO9DJ_D6ZRPu2vPEzpM2-vbP3TgZJ1/view) to watch the full instructional video on how to use the api using insomnia
+Please click this [link](https://drive.google.com/file/d/1klIO9DJ_D6ZRPu2vPEzpM2-vbP3TgZJ1/view) to watch the full instructional video on how to use the api using Insomnia
 
 
 ## Purpose
-The purpose of this repository is to allow users to store and retrieve information about theie products for any online e-commerce website. Users can easily manage these products, tags, and categories for their own online e-commerce websites. 
+The purpose of this repository is to allow users to store and retrieve information about their products for any online e-commerce website. Users can easily manage these products, tags, and categories for their own online e-commerce websites using Insomnia or a similar program. 
  
 ## Contributers
 The sole contributor to this application is xyiorgyx.
