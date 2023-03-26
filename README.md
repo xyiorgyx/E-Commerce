@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 ## Description
 The E-commerce backend server is a api data-base using sql to store and retrieve data using Insomnia. The program allows users to add, change and delete: products, categories, tags, as well as product tags to their personal liking. The data base is completely customizable to the users needs and preferences. 
